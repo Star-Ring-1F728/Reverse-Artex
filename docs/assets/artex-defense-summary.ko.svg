@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="550" viewBox="0 0 1000 550" role="img" aria-labelledby="t d">
+<title id="t">ARTEX 방어 · 검증 범위</title>
+<desc id="d">최신 패키지 SDK·등록 edge 시험 · 2026-11-15: 69/69; 954/954; 0. 무권한 9/9건 거부   ·   정상 6/6건 성공   ·   시험 데이터 유출 0건. 현재 ARTEX ↔ AI 방어 전체 검증: 미완료.</desc>
+<rect width="1000" height="550" rx="18" fill="#111a19"/>
+<g font-family="Arial, Malgun Gothic, Noto Sans KR, sans-serif">
+<text x="32" y="45" fill="#eff8f3" font-size="27" font-weight="700">ARTEX 방어 · 검증 범위</text>
+<text x="32" y="76" fill="#adbfba" font-size="16" font-weight="400">서로 다른 시험입니다. 일반 공격 차단율·AI 품질을 보장하지 않습니다.</text>
+<text x="32" y="111" fill="#c9dbd2" font-size="18" font-weight="700">최신 패키지 SDK·등록 edge 시험 · 2026-11-15</text>
+<rect x="32" y="129" width="304" height="132" rx="12" fill="#1b2b25" stroke="#365247"/>
+<text x="52" y="190" fill="#bdf578" font-size="49" font-weight="700">69 / 69</text>
+<text x="52" y="234" fill="#e3eee9" font-size="16" font-weight="400">지정 무권한 요청 거부</text>
+<rect x="348" y="129" width="304" height="132" rx="12" fill="#1b2b25" stroke="#365247"/>
+<text x="368" y="190" fill="#bdf578" font-size="45" font-weight="700">954 / 954</text>
+<text x="368" y="234" fill="#e3eee9" font-size="16" font-weight="400">정상 요청 정확 응답</text>
+<rect x="664" y="129" width="304" height="132" rx="12" fill="#1b2b25" stroke="#365247"/>
+<text x="684" y="190" fill="#bdf578" font-size="49" font-weight="700">0</text>
+<text x="684" y="234" fill="#e3eee9" font-size="16" font-weight="400">보호 경로 시험 데이터 유출</text>
+<rect x="32" y="283" width="936" height="102" rx="12" fill="#192321" stroke="#3a4942"/>
+<text x="52" y="316" fill="#adbfba" font-size="17" font-weight="700">이전 ARTEX Engine 고정 회귀 · 2026-11-12 · GET 15건</text>
+<text x="52" y="353" fill="#e3eee9" font-size="19" font-weight="400">무권한 9/9건 거부   ·   정상 6/6건 성공   ·   시험 데이터 유출 0건</text>
+<rect x="32" y="405" width="936" height="50" rx="9" fill="#392c1c" stroke="#795d32"/>
+<text x="50" y="437" fill="#f4c58a" font-size="18" font-weight="700">현재 ARTEX ↔ AI 방어 전체 검증: 미완료</text>
+<text x="32" y="493" fill="#adbfba" font-size="15" font-weight="400">SDK·세션·ACL 연동이 필요하며, 기본 실행은 관측 모드입니다.</text>
+<text x="32" y="522" fill="#adbfba" font-size="14" font-weight="400">이전 ARTEX 요청은 SDK가 이미 거부했습니다. AI 추가 유출 방지 효과는 미입증입니다.</text>
+</g>
+</svg>

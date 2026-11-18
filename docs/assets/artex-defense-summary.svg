@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="550" viewBox="0 0 1000 550" role="img" aria-labelledby="t d">
+<title id="t">ARTEX defense · measured scope</title>
+<desc id="d">Latest packaged SDK/edge checks · 2026-11-15: 69/69; 954/954; 0. 9/9 unauthorized denied   ·   6/6 legitimate succeeded   ·   0 fixture exposures. Current ARTEX ↔ AI defense qualification: INCOMPLETE.</desc>
+<rect width="1000" height="550" rx="18" fill="#111a19"/>
+<g font-family="Arial, Malgun Gothic, Noto Sans KR, sans-serif">
+<text x="32" y="45" fill="#eff8f3" font-size="27" font-weight="700">ARTEX defense · measured scope</text>
+<text x="32" y="76" fill="#adbfba" font-size="16" font-weight="400">Different trials; no general attack block-rate or AI-quality claim.</text>
+<text x="32" y="111" fill="#c9dbd2" font-size="18" font-weight="700">Latest packaged SDK/edge checks · 2026-11-15</text>
+<rect x="32" y="129" width="304" height="132" rx="12" fill="#1b2b25" stroke="#365247"/>
+<text x="52" y="190" fill="#bdf578" font-size="49" font-weight="700">69 / 69</text>
+<text x="52" y="234" fill="#e3eee9" font-size="16" font-weight="400">Unauthorized checks denied</text>
+<rect x="348" y="129" width="304" height="132" rx="12" fill="#1b2b25" stroke="#365247"/>
+<text x="368" y="190" fill="#bdf578" font-size="45" font-weight="700">954 / 954</text>
+<text x="368" y="234" fill="#e3eee9" font-size="16" font-weight="400">Legitimate exact responses</text>
+<rect x="664" y="129" width="304" height="132" rx="12" fill="#1b2b25" stroke="#365247"/>
+<text x="684" y="190" fill="#bdf578" font-size="49" font-weight="700">0</text>
+<text x="684" y="234" fill="#e3eee9" font-size="16" font-weight="400">Protected fixture exposures</text>
+<rect x="32" y="283" width="936" height="102" rx="12" fill="#192321" stroke="#3a4942"/>
+<text x="52" y="316" fill="#adbfba" font-size="17" font-weight="700">Prior ARTEX Engine regression · 2026-11-12 · 15 prescribed GETs</text>
+<text x="52" y="353" fill="#e3eee9" font-size="19" font-weight="400">9/9 unauthorized denied   ·   6/6 legitimate succeeded   ·   0 fixture exposures</text>
+<rect x="32" y="405" width="936" height="50" rx="9" fill="#392c1c" stroke="#795d32"/>
+<text x="50" y="437" fill="#f4c58a" font-size="18" font-weight="700">Current ARTEX ↔ AI defense qualification: INCOMPLETE</text>
+<text x="32" y="493" fill="#adbfba" font-size="15" font-weight="400">SDK/session/ACL integration required. Default launch observes traffic only.</text>
+<text x="32" y="522" fill="#adbfba" font-size="14" font-weight="400">Historical ARTEX denials were SDK-masked; added AI leak prevention is unproven.</text>
+</g>
+</svg>

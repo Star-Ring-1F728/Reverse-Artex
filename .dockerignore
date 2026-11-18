@@ -1,0 +1,12 @@
+.git
+.tools
+.workspace-copy
+data
+artifacts
+bin
+*.exe
+config.json
+.env
+lab
+docs
+**/__pycache__

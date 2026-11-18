@@ -1,0 +1,5 @@
+{
+  "segment_bytes": 16777216,
+  "max_storage_bytes": 8589934592,
+  "max_generations": 256
+}

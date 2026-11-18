@@ -1,0 +1,9 @@
+{
+  "approvers": [{
+    "key_id": "separate-production-operator",
+    "actor": "separate-production-operator",
+    "role": "context_production_approver",
+    "public_key_base64": "INSTALL_SEPARATE_OPERATOR_PUBLIC_KEY",
+    "revoked": false
+  }]
+}

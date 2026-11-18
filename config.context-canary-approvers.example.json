@@ -1,0 +1,11 @@
+{
+  "approvers": [
+    {
+      "key_id": "release-approver-1",
+      "actor": "release-operator-1",
+      "role": "context_canary_approver",
+      "public_key_base64": "REPLACE_WITH_SEPARATE_APPROVER_ED25519_PUBLIC_KEY",
+      "revoked": false
+    }
+  ]
+}

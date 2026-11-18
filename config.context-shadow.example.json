@@ -1,0 +1,11 @@
+{
+  "candidate_path": "PATH_TO_FROZEN_CANDIDATE.json",
+  "candidate_sha256": "REPLACE_WITH_INDEPENDENTLY_DELIVERED_CANDIDATE_SHA256",
+  "review_trust_path": "PATH_TO_PUBLIC_AUTHORITIES.json",
+  "storage": {
+    "active_attempts": 128,
+    "active_bytes": 33554432,
+    "archive_segments": 8,
+    "total_bytes": 268435456
+  }
+}

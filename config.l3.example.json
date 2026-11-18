@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "origin": "http://127.0.0.1:11434",
+  "model": "",
+  "model_sha256": "",
+  "allow_containment": false,
+  "daily_runs": 32,
+  "bundled_context": false,
+  "prefetch_observations": false,
+  "short_references": false,
+  "grounded_assessment": false,
+  "adaptive_strategy": false
+}

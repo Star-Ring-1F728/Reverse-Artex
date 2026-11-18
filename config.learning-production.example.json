@@ -1,0 +1,29 @@
+{
+  "schema": "case-production-policy/1",
+  "tenant_id": "alpha",
+  "revision": 1,
+  "trust_sha256": "REPLACE_WITH_INSTALLED_LEARNING_TRUST_SHA256",
+  "enabled": false,
+  "scope": "incident_triage/1",
+  "quality": {
+    "minimum_cases": 60,
+    "minimum_attack": 30,
+    "minimum_benign": 30,
+    "minimum_families": 3,
+    "minimum_source_groups": 3,
+    "minimum_coverage_bps": 10000,
+    "maximum_false_benign_upper_bps": 1000,
+    "maximum_false_attack_upper_bps": 1000,
+    "maximum_case_milliseconds": 30000
+  },
+  "canary": {
+    "minimum_candidate_cases": 60,
+    "minimum_candidate_attack": 30,
+    "minimum_candidate_benign": 30,
+    "minimum_seconds": 3600,
+    "minimum_coverage_bps": 10000,
+    "maximum_false_benign_upper_bps": 1000,
+    "maximum_false_attack_upper_bps": 1000
+  },
+  "maximum_report_age_seconds": 86400
+}

@@ -1,0 +1,7 @@
+{
+  "journal_path": "data/context-canary-release/journal.jsonl",
+  "release_policy_path": "config.context-canary-policy.json",
+  "admission_policy_path": "config.context-quality-policy.json",
+  "authority_trust_path": "config.learning-trust.json",
+  "context_trust_path": "config.action-context-trust.json"
+}

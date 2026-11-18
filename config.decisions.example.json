@@ -1,0 +1,11 @@
+{
+  "config_revision": "local-v1",
+  "mode": "off",
+  "key_env": "OPENAI_API_KEY",
+  "key_file": "",
+  "daily_calls": 100,
+  "daily_reserved_tokens": 1000000,
+  "reserved_tokens_per_call": 8192,
+  "candidate_probability_threshold": 0,
+  "operator_calibration_gate_sha256": ""
+}

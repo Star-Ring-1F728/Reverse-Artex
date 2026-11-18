@@ -1,0 +1,22 @@
+services:
+  reverse-artex:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:9081:9081"
+    environment:
+      RA_SENSOR_TOKEN: ${RA_SENSOR_TOKEN:?Set a random sensor token of at least 32 characters in .env}
+      RA_SENSOR_ID: ${RA_SENSOR_ID:-lab-app}
+      RA_ASSET_ID: ${RA_ASSET_ID:-lab-api}
+      RA_TENANTS: ${RA_TENANTS:-alpha,beta,public}
+    volumes:
+      - reverse-artex-data:/app/data
+    read_only: true
+    tmpfs:
+      - /tmp:size=16m,mode=1777
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+volumes:
+  reverse-artex-data:

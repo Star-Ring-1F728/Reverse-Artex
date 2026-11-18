@@ -1,0 +1,42 @@
+{
+  "schema": "case-learning-trust/1",
+  "tenant_id": "alpha",
+  "revision": 1,
+  "keys": [
+    {
+      "key_id": "label-reviewer-1",
+      "actor": "review-team-1",
+      "role": "label_reviewer",
+      "public_key_base64": "REPLACE_WITH_OPERATOR_VERIFIED_ED25519_PUBLIC_KEY",
+      "revoked": false
+    },
+    {
+      "key_id": "release-approver-1",
+      "actor": "release-team-1",
+      "role": "release_approver",
+      "public_key_base64": "REPLACE_WITH_OPERATOR_VERIFIED_ED25519_PUBLIC_KEY",
+      "revoked": false
+    },
+    {
+      "key_id": "evaluation_custodian-1",
+      "actor": "evaluation_custodian-team",
+      "role": "evaluation_custodian",
+      "public_key_base64": "REPLACE_WITH_DISTINCT_OPERATOR_VERIFIED_ED25519_PUBLIC_KEY",
+      "revoked": false
+    },
+    {
+      "key_id": "independent_evaluator-1",
+      "actor": "independent_evaluator-team",
+      "role": "independent_evaluator",
+      "public_key_base64": "REPLACE_WITH_DISTINCT_OPERATOR_VERIFIED_ED25519_PUBLIC_KEY",
+      "revoked": false
+    },
+    {
+      "key_id": "production_approver-1",
+      "actor": "production_approver-team",
+      "role": "production_approver",
+      "public_key_base64": "REPLACE_WITH_DISTINCT_OPERATOR_VERIFIED_ED25519_PUBLIC_KEY",
+      "revoked": false
+    }
+  ]
+}

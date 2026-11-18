@@ -1,0 +1,13 @@
+{
+  "schema": "case-context-admission-policy/2",
+  "tenant_id": "alpha",
+  "revision": 1,
+  "enabled": false,
+  "scope": "incident_triage_context/2",
+  "authority_trust_sha256": "REPLACE_WITH_INSTALLED_AUTHORITY_TRUST_SHA256",
+  "context_trust_sha256": "REPLACE_WITH_INSTALLED_SENSOR_ISSUER_TRUST_SHA256",
+  "feature_schema_sha256": "GENERATE_WITH_POLICY_TEMPLATE",
+  "runtime_source_sha256": "GENERATE_WITH_POLICY_TEMPLATE",
+  "admission_source_sha256": "GENERATE_WITH_POLICY_TEMPLATE",
+  "maximum_report_age_seconds": 86400
+}

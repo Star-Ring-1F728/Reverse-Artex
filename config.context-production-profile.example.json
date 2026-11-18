@@ -1,0 +1,5 @@
+{
+  "journal_path": "data/context-production/journal.jsonl",
+  "production_policy_path": "config.context-production-policy.json",
+  "canary_profile_path": "config.context-canary-profile.json"
+}

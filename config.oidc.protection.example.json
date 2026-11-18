@@ -1,0 +1,14 @@
+{
+  "schema": "protection-registry/1",
+  "asset": "my-app",
+  "revision": "oidc-registry-v1",
+  "trust_epoch": "oidc-trust-v1",
+  "enforcer_id": "edge-one",
+  "tenants": ["tenant-one"],
+  "identity_config_sha256": "REPLACE_WITH_PREPARED_OIDC_CONFIGURATION_DIGEST",
+  "proof_keys": {"sdk-one": "REPLACE_WITH_UNPADDED_BASE64URL_ED25519_PUBLIC_KEY"},
+  "routes": [
+    {"id": "modern-object-read", "template": "/api/objects/{id}", "namespace": "objects", "mode": "enforce", "max_body_bytes": 1048576, "auth_adapter_version": "oidc-jwt-rs256-v1", "resolver_version": "session-snapshot-v1"},
+    {"id": "legacy-object-read", "template": "/legacy/objects/{id}", "namespace": "objects", "mode": "enforce", "max_body_bytes": 1048576, "auth_adapter_version": "oidc-jwt-rs256-v1", "resolver_version": "session-snapshot-v1"}
+  ]
+}

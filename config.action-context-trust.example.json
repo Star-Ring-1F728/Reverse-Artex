@@ -1,0 +1,25 @@
+{
+  "schema": "action-context-trust/2",
+  "revision": 1,
+  "keys": [
+    {
+      "key_id": "operator-context-sensor",
+      "role": "observation_sensor",
+      "tenant_id": "alpha",
+      "asset_id": "lab-api",
+      "sensor_id": "lab-app",
+      "public_key_base64": "REPLACE_WITH_OPERATOR_PINNED_SENSOR_ED25519_PUBLIC_KEY",
+      "revoked": false
+    },
+    {
+      "key_id": "operator-scope-issuer",
+      "role": "scope_issuer",
+      "tenant_id": "alpha",
+      "asset_id": "lab-api",
+      "sensor_id": "lab-app",
+      "public_key_base64": "REPLACE_WITH_DIFFERENT_OPERATOR_PINNED_ISSUER_ED25519_PUBLIC_KEY",
+      "revoked": false
+    }
+  ],
+  "revoked_permit_ids": []
+}

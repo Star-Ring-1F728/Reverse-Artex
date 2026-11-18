@@ -1,0 +1,10 @@
+{
+  "schema": "oidc-rs256/1",
+  "issuer": "https://login.example.com/realms/my-realm",
+  "audience": "reverse-artex",
+  "client_id": "reverse-artex-console",
+  "tenant_claim": "ra_tenant",
+  "max_lifetime_seconds": 300,
+  "subjects": {"REPLACE_WITH_STABLE_KEYCLOAK_USER_UUID": {"principal": "alice", "tenant": "tenant-one"}},
+  "keys": [{"kid": "REPLACE_WITH_KEY_ID", "n": "REPLACE_WITH_RSA_PUBLIC_MODULUS", "e": "AQAB"}]
+}

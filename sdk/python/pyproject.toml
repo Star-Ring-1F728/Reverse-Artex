@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reverse-artex-guard"
+version = "0.1.0"
+description = "Opt-in object authorization and signed pre-release response guard"
+requires-python = ">=3.10"
+dependencies = ["cryptography==50.0.2", "PyJWT==2.15.1"]
+
+[tool.setuptools]
+py-modules = ["reverse_artex_windows_service"]
+
+[tool.setuptools.packages.find]
+include = ["reverse_artex_guard*"]

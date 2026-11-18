@@ -1,0 +1,24 @@
+{
+  "schema": "protection-registry/1",
+  "asset": "my-app",
+  "revision": "registry-v1",
+  "trust_epoch": "trust-v1",
+  "enforcer_id": "edge-one",
+  "tenants": [
+    "tenant-one"
+  ],
+  "proof_keys": {
+    "sdk-one": "REPLACE_WITH_UNPADDED_BASE64URL_ED25519_PUBLIC_KEY"
+  },
+  "routes": [
+    {
+      "id": "legacy-object-read",
+      "template": "/legacy/objects/{id}",
+      "namespace": "objects",
+      "mode": "enforce",
+      "max_body_bytes": 1048576,
+      "auth_adapter_version": "lab-hmac-v1",
+      "resolver_version": "snapshot-v1"
+    }
+  ]
+}

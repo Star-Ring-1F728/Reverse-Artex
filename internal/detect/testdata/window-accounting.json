@@ -1,0 +1,6770 @@
+[
+  {
+    "mode": "session",
+    "profile": "normal",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 128,
+      "dedup_limit": 524288,
+      "history_events": 8,
+      "history_limit": 16384,
+      "subjects": 1
+    }
+  },
+  {
+    "mode": "session",
+    "profile": "recon",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "49263d23735bf68448a07c78587db424",
+            "rule_id": "RA-002",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-a",
+            "asset_id": "asset-a",
+            "subject": "user-a:session-a",
+            "correlation_scope": "session",
+            "principal_id": "user-a",
+            "session_hmac": "session-a",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0",
+              "event-1",
+              "event-2",
+              "event-3",
+              "event-4",
+              "event-5",
+              "event-6",
+              "event-7"
+            ],
+            "evidence_families": [
+              "path-diversity",
+              "http-errors",
+              "schema"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 128,
+      "dedup_limit": 524288,
+      "history_events": 128,
+      "history_limit": 16384,
+      "subjects": 1
+    }
+  },
+  {
+    "mode": "session",
+    "profile": "validation",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "357dc7edb702fd079d87ed13c5afbaff",
+            "rule_id": "RA-005",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-a",
+            "asset_id": "asset-a",
+            "subject": "user-a:session-a",
+            "correlation_scope": "session",
+            "principal_id": "user-a",
+            "session_hmac": "session-a",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0",
+              "event-4",
+              "event-8",
+              "event-12"
+            ],
+            "evidence_families": [
+              "validation"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 128,
+      "dedup_limit": 524288,
+      "history_events": 128,
+      "history_limit": 16384,
+      "subjects": 1
+    }
+  },
+  {
+    "mode": "session",
+    "profile": "mixed",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "c09e0e499e906e5b71ce60afdff0b233",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "565905bd5c45a91877bc9038c33ba1bb",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "8a72dbb222568d85c1144123f7b38f8f",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-1",
+            "subject": "user-1:session-3",
+            "correlation_scope": "session",
+            "principal_id": "user-1",
+            "session_hmac": "session-3",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-19"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "5d81a33fe824db2820eca0a590e80564",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-1",
+            "subject": "user-1:session-3",
+            "correlation_scope": "session",
+            "principal_id": "user-1",
+            "session_hmac": "session-3",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-31"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "333d3808459e281027770af7db188893",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-38"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "f4372468341c4d98d36911c783f7f78f",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-26",
+              "event-38",
+              "event-2",
+              "event-14"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "600a13f168e76a0b4ebc886f97751910",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-40",
+              "event-4",
+              "event-16",
+              "event-28"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "dc4be1d6f0a2cf53e3d6bb912c263239",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-54",
+              "event-18",
+              "event-30",
+              "event-42"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "0575c67948e133c91a3020a833e642a8",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-0",
+            "subject": "user-1:session-1",
+            "correlation_scope": "session",
+            "principal_id": "user-1",
+            "session_hmac": "session-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-57"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "48a551b6c72e53fe9827585f143f1f7c",
+            "rule_id": "RA-003",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-60",
+              "event-24",
+              "event-36"
+            ],
+            "evidence_families": [
+              "recon",
+              "validation",
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          },
+          {
+            "case_id": "78f8a2909301cf9ee90a1814992b0731",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-12",
+              "event-60",
+              "event-24",
+              "event-36"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "b0a070485c4dd1a97474d4bde6200d4f",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-62"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "4360f6c74d2c3e39588507a6ff87d75b",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-4",
+              "event-52",
+              "event-16",
+              "event-28"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "3275450cf7499f4e059306bc5972dac4",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-46",
+              "event-10",
+              "event-58",
+              "event-70"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "55d277a23a653fc6bfff1080f634921d",
+            "rule_id": "RA-003",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-60",
+              "event-24",
+              "event-36"
+            ],
+            "evidence_families": [
+              "recon",
+              "validation",
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          },
+          {
+            "case_id": "6c6a074dcdc43aee35bb576b077a151a",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-60",
+              "event-24",
+              "event-36",
+              "event-72"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "29b63534dbd3d759df9950eeb8f8adee",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-38",
+              "event-74",
+              "event-2",
+              "event-50"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "9255f67a36a3cb0a45288a0a1afe446d",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-76"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "0d36bc2b2c4e77f3822ae498f26fc4a1",
+            "rule_id": "RA-003",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-30",
+              "event-42",
+              "event-78"
+            ],
+            "evidence_families": [
+              "recon",
+              "validation",
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "10m0s"
+          },
+          {
+            "case_id": "c6073d860f8a9defa7e3ffede57a2e7e",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-18",
+              "event-30",
+              "event-42",
+              "event-78"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "5bf07cfcea56cc53d114f9063f4cd2d8",
+            "rule_id": "RA-004",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-32",
+              "event-80",
+              "event-8",
+              "event-56"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "0f6f02e9ad31c2206746c7e3f7fa6019",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-0",
+            "subject": "user-1:session-1",
+            "correlation_scope": "session",
+            "principal_id": "user-1",
+            "session_hmac": "session-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-93"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "889873658a0d24f6ad52d9a21fc48f3d",
+            "rule_id": "RA-003",
+            "rule_version": "1.1",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-0",
+            "subject": "user-1:session-1",
+            "correlation_scope": "session",
+            "principal_id": "user-1",
+            "session_hmac": "session-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-45",
+              "event-81",
+              "event-93"
+            ],
+            "evidence_families": [
+              "recon",
+              "validation",
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "f94d3bd00ac0d007c3790a1dcd5d61ba",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-2",
+            "subject": "user-1:session-3",
+            "correlation_scope": "session",
+            "principal_id": "user-1",
+            "session_hmac": "session-3",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-95"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "16a0847d0d46431ce3f00abbc9d87000",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0:session-2",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-2",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-114"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "5c1a961c8de1dfb6fca4ed7dfb775990",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0:session-0",
+            "correlation_scope": "session",
+            "principal_id": "user-0",
+            "session_hmac": "session-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-124"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 60,
+      "dedup_limit": 524288,
+      "history_events": 27,
+      "history_limit": 16384,
+      "subjects": 15
+    }
+  },
+  {
+    "mode": "session",
+    "profile": "capacity",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "c09e0e499e906e5b71ce60afdff0b233",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "565905bd5c45a91877bc9038c33ba1bb",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 7,
+      "dedup_limit": 32,
+      "history_events": 4,
+      "history_limit": 24,
+      "subjects": 2
+    }
+  },
+  {
+    "mode": "principal",
+    "profile": "normal",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 128,
+      "dedup_limit": 524288,
+      "history_events": 8,
+      "history_limit": 16384,
+      "subjects": 1
+    }
+  },
+  {
+    "mode": "principal",
+    "profile": "recon",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "f9f360f3d6fed490f6254862eb159e4d",
+            "rule_id": "RA-002",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-a",
+            "asset_id": "asset-a",
+            "subject": "user-a",
+            "correlation_scope": "principal",
+            "principal_id": "user-a",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0",
+              "event-1",
+              "event-2",
+              "event-3",
+              "event-4",
+              "event-5",
+              "event-6",
+              "event-7"
+            ],
+            "evidence_families": [
+              "path-diversity",
+              "http-errors",
+              "schema"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 128,
+      "dedup_limit": 524288,
+      "history_events": 128,
+      "history_limit": 16384,
+      "subjects": 1
+    }
+  },
+  {
+    "mode": "principal",
+    "profile": "validation",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "677104607d05fbe397e6416903d48291",
+            "rule_id": "RA-005",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-a",
+            "asset_id": "asset-a",
+            "subject": "user-a",
+            "correlation_scope": "principal",
+            "principal_id": "user-a",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0",
+              "event-4",
+              "event-8",
+              "event-12"
+            ],
+            "evidence_families": [
+              "validation"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 128,
+      "dedup_limit": 524288,
+      "history_events": 128,
+      "history_limit": 16384,
+      "subjects": 1
+    }
+  },
+  {
+    "mode": "principal",
+    "profile": "mixed",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "c09e0e499e906e5b71ce60afdff0b233",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "565905bd5c45a91877bc9038c33ba1bb",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "7ea482bf2a768a8981ddb3a469288b2e",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-1",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-19"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "45f067602ef255b5ae237c65b77e919e",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-26",
+              "event-2",
+              "event-8",
+              "event-14"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "ea34d11644e53a8966b0c870e8cfc91a",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-4",
+              "event-10",
+              "event-16",
+              "event-28"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "ee823aa4cbd0e460dac1b6940e7047b3",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-12",
+              "event-18",
+              "event-24",
+              "event-30"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "3f437488e7e62cbda8cf22c1fa72d991",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-1",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-31"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "772cbccfc2456900dd6ce3639833324f",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-38"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "67db4857ff3bf352fa75f823f115149b",
+            "rule_id": "RA-003",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-30",
+              "event-36",
+              "event-42"
+            ],
+            "evidence_families": [
+              "recon",
+              "validation",
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "10m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "90b612eb7facd2f5d87a9e0fff2a96f2",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-0",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-57"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "e2109c9785e12fa7a684857f8483b6f3",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-62"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "278f7e318f5aef2b8a371be36275e0ef",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-16",
+              "event-58",
+              "event-28",
+              "event-64"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "10m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "846bb1ab04604e79c65ddd463b84a584",
+            "rule_id": "RA-003",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-30",
+              "event-36",
+              "event-42"
+            ],
+            "evidence_families": [
+              "recon",
+              "validation",
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "10m0s"
+          },
+          {
+            "case_id": "71a0ed70cf820ed4ee5db13baaa38934",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-30",
+              "event-36",
+              "event-42",
+              "event-72"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "10m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "1a95245d41bfb1b33738567162daecaa",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-2",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-2",
+              "event-8",
+              "event-50",
+              "event-14"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "10m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "8660ce8ea56eb9b50ee40c11746e6263",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-76"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "ab13a6ccf2ff489b95a936ba97cb4e67",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-0",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-93"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "0f3e5d0a1d3566bbb59dbf451de30da7",
+            "rule_id": "RA-003",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-0",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-15",
+              "event-21",
+              "event-93"
+            ],
+            "evidence_families": [
+              "recon",
+              "validation",
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "10m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "800f1032d39a946d4f49ecb34b0424f4",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:05:06Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-2",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-95"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "e01fb715ce923df7ef26df23ee4e2232",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-114"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "e66222503642bee2c649d4f6cacd2fd6",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-96",
+              "event-108",
+              "event-114",
+              "event-120"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "6a2b0d51450290ffd83242777f01ebc6",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-124"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "de0b72825a54c30c8a07ac13b9ee7e4a",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-1",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-124",
+              "event-100",
+              "event-106",
+              "event-112"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "partial",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 60,
+      "dedup_limit": 524288,
+      "history_events": 26,
+      "history_limit": 16384,
+      "subjects": 9
+    }
+  },
+  {
+    "mode": "principal",
+    "profile": "capacity",
+    "steps": [
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "c09e0e499e906e5b71ce60afdff0b233",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          },
+          {
+            "case_id": "565905bd5c45a91877bc9038c33ba1bb",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "anonymous-asset",
+            "correlation_scope": "asset",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-0"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "7ea482bf2a768a8981ddb3a469288b2e",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-1",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-19"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "3f437488e7e62cbda8cf22c1fa72d991",
+            "rule_id": "RA-008",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T03:04:05Z",
+            "tenant_id": "tenant-1",
+            "asset_id": "asset-1",
+            "subject": "user-1",
+            "correlation_scope": "principal",
+            "principal_id": "user-1",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-31"
+            ],
+            "evidence_families": [
+              "private-canary"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "duplicate",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "e01fb715ce923df7ef26df23ee4e2232",
+            "rule_id": "RA-001",
+            "rule_version": "1.0",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-114"
+            ],
+            "evidence_families": [
+              "ua"
+            ],
+            "confidence": "informational",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "single-event"
+          }
+        ]
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": [
+          {
+            "case_id": "e66222503642bee2c649d4f6cacd2fd6",
+            "rule_id": "RA-004",
+            "rule_version": "1.2",
+            "alert_time": "2025-01-02T04:05:06Z",
+            "tenant_id": "tenant-0",
+            "asset_id": "asset-0",
+            "subject": "user-0",
+            "correlation_scope": "principal",
+            "principal_id": "user-0",
+            "mode": "observe",
+            "evidence_refs": [
+              "event-96",
+              "event-108",
+              "event-114",
+              "event-120"
+            ],
+            "evidence_families": [
+              "authorization"
+            ],
+            "confidence": "medium",
+            "data_quality": "complete",
+            "ingest_to_alert_ms": 0,
+            "window": "1h0m0s"
+          }
+        ]
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "capacity_rejected",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      },
+      {
+        "status": "accepted",
+        "alerts": null
+      }
+    ],
+    "stats": {
+      "dedup_keys": 15,
+      "dedup_limit": 32,
+      "history_events": 9,
+      "history_limit": 24,
+      "subjects": 2
+    }
+  }
+]

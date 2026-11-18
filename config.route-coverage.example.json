@@ -1,0 +1,10 @@
+{
+  "schema": "route-coverage/1",
+  "asset": "my-app",
+  "revision": "coverage-v1",
+  "registry_digest": "REPLACE_WITH_CHECKED_PROTECTION_REGISTRY_DIGEST",
+  "unprotected_routes": [
+    {"id": "app-health", "path": "/health", "methods": ["GET"], "query": "deny", "reason": "Application liveness endpoint; no SDK object proof."},
+    {"id": "app-login", "path": "/api/login", "methods": ["POST"], "query": "deny", "reason": "Application owns login authentication and rate controls; no SDK object proof."}
+  ]
+}
