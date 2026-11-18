@@ -9,7 +9,6 @@ import (
 	"os"
 	"path/filepath"
 	"reverse-artex/internal/protection"
-	"strings"
 )
 
 type JournalBackup struct {
@@ -26,7 +25,7 @@ type JournalBackupFile struct {
 	SHA256 string `json:"sha256"`
 }
 
-// BackupRetainedJournal exports committed files from a stopped Linux writer.
+// BackupRetainedJournal exports committed files from a stopped writer.
 // While copying it holds the same read lock as VerifyJournal, then verifies the
 // copy before writing its manifest. A partial export is left for inspection;
 // require a successful exit. Promotion on another machine requires fencing the
@@ -44,7 +43,13 @@ func BackupRetainedJournal(path string, registry *protection.Registry, destinati
 	if err != nil {
 		return result, err
 	}
-	if target == source+".retained" || strings.HasPrefix(target, source+".retained"+string(os.PathSeparator)) {
+	if err = validateRetentionPath(source); err != nil {
+		return result, err
+	}
+	if err = validateRetentionPath(target); err != nil {
+		return result, err
+	}
+	if relative, relErr := filepath.Rel(source+".retained", target); relErr == nil && filepath.IsLocal(relative) {
 		return result, errors.New("backup destination must be outside the journal directory")
 	}
 	owner, err := openJournalReadLock(source)

@@ -1,4 +1,4 @@
-//go:build linux
+//go:build linux || windows
 
 package responsev2
 
@@ -6,6 +6,8 @@ import (
 	"encoding/json"
 	"os"
 	"path/filepath"
+	"runtime"
+	"strings"
 	"testing"
 )
 
@@ -27,6 +29,16 @@ func TestRetainedBackupLocksWriterAndPreservesCommittedHistory(t *testing.T) {
 	}
 	if _, err := BackupRetainedJournal(path, reg, filepath.Join(path+".retained", "backup")); err == nil {
 		t.Fatal("created backup inside the protected source")
+	}
+	if runtime.GOOS == "windows" {
+		alias := filepath.Join(filepath.Dir(path), strings.ToUpper(filepath.Base(path)))
+		nested := filepath.Join(path+".retained", "case-alias-backup")
+		if _, err := BackupRetainedJournal(alias, reg, nested); err == nil {
+			t.Fatal("case alias allowed a backup inside the protected source")
+		}
+		if _, err := os.Lstat(nested); !os.IsNotExist(err) {
+			t.Fatal("blocked case alias created output", err)
+		}
 	}
 	b, err := BackupRetainedJournal(path, reg, dst)
 	if err != nil || !b.Verification.Passed || b.Verification.TotalObservations != 1 || !b.Verification.AuditAvailable {

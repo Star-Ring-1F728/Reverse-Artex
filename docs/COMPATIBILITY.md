@@ -13,7 +13,7 @@ Optional [adaptive defense strategy](ADAPTIVE-DEFENSE-STRATEGY.ko.md) adds bound
 | Windows amd64 | Native console, collector evidence, file analysis, and Windows CLI builds. Target-specific optional integrations require their own setup. |
 | Linux | Native console/CLI builds. Some durability and response paths are Linux-specific; use the filesystem and privileges documented for that path. |
 | macOS | Source-build entry point exists; runtime qualification and advanced feature parity are not established. |
-| V2 retained journals | Explicit `policy-edge -v2-state ... -v2-retention` mode requires Linux directory fsync/locking. Native Windows and other non-Linux implementations reject it. Ordinary Windows collector evidence storage is a different path. |
+| V2 retained journals | Explicit `policy-edge -v2-state ... -v2-retention` mode supports Linux and fixed local Windows NTFS volumes. Journal verification and stopped backups use the writer's ownership lock. [Retained journal operation](V2-RETAINED-JOURNAL.md) |
 | Real host isolation | Explicit single-workload Linux network-namespace/nftables adapter, scope, privileges, and trust setup. Simulation is the default; generic Windows host isolation is not supplied by this adapter. |
 | Docker Compose | API-only collector, loopback port publication, persistent named volume. It does not serve the native operator console. |
 | Local Ollama | Already installed tool-capable local model and sufficient model-specific memory; analysis-only by default. No automatic model download. |

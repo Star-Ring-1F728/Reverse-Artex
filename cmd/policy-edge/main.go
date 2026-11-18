@@ -68,7 +68,7 @@ func run() (runErr error) {
 	v2State := flag.String("v2-state", "", "explicit owned V2 journal; enables local single-writer incident/policy runtime")
 	v2Native := flag.Bool("v2-native", false, "opt-in deterministic exact-resource responses from fresh SDK denials")
 	v2Combined := flag.Bool("v2-combined-prepare", false, "opt-in atomic durable SDK observation and response preparation; native/automatic denial handling keeps its original order")
-	v2Retention := flag.Bool("v2-retention", false, "opt-in Linux durable V2 checkpoints and retained segments; default 8GiB journal and 512MiB per-stream edge evidence budgets")
+	v2Retention := flag.Bool("v2-retention", false, "opt-in durable V2 checkpoints and retained segments on Linux or local Windows NTFS; default 8GiB journal and 512MiB per-stream edge evidence budgets")
 	retentionPath := flag.String("v2-retention-config", "", "optional JSON sizing for retained V2; must match the existing journal")
 	v2Window := flag.Duration("v2-batch-window", 0, "opt-in 1..25ms durable V2 response batching; requires v2-state and combined preparation; default per-record Sync")
 	auditWindow := flag.Duration("evidence-batch-window", 0, "opt-in 1..25ms evidence batching; every caller waits for batch Sync; default per-request Sync")

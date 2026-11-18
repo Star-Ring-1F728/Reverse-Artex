@@ -46,6 +46,9 @@ func VerifyJournal(path string, registry *protection.Registry, emit func(Verifie
 	if !retentionSupported() || registry == nil {
 		return result, ErrUnavailable
 	}
+	if err := validateRetentionPath(path); err != nil {
+		return result, err
+	}
 	owner, err := openJournalReadLock(path)
 	if err != nil {
 		return result, err

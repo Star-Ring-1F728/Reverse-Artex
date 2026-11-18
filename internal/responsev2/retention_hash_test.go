@@ -1,4 +1,4 @@
-//go:build linux
+//go:build linux || windows
 
 package responsev2
 
@@ -7,6 +7,8 @@ import (
 	"errors"
 	"os"
 	"path/filepath"
+	"runtime"
+	"syscall"
 	"testing"
 )
 
@@ -43,19 +45,28 @@ func TestRetainedStreamingHashRejectsNonregularMissingAndOversizeFiles(t *testin
 	if err := os.WriteFile(path, []byte("complete segment"), 0600); err != nil {
 		t.Fatal(err)
 	}
-	link := filepath.Join(dir, "symlink")
-	if err := os.Symlink(path, link); err != nil {
-		t.Fatal(err)
-	}
 	for _, test := range []struct {
 		path  string
 		limit int64
-	}{{path, 3}, {dir, 1 << 20}, {link, 1 << 20}, {filepath.Join(dir, "missing"), 1 << 20}} {
+	}{{path, 3}, {dir, 1 << 20}, {filepath.Join(dir, "missing"), 1 << 20}} {
 		digest, _, err := hashRetainedFile(test.path, test.limit)
 		if err == nil || digest != "" {
 			t.Fatal("unavailable segment yielded a digest", test.path, err)
 		}
 	}
+	t.Run("symlink", func(t *testing.T) {
+		link := filepath.Join(dir, "symlink")
+		if err := os.Symlink(path, link); err != nil {
+			const privilegeNotHeld = syscall.Errno(1314)
+			if runtime.GOOS == "windows" && errors.Is(err, privilegeNotHeld) {
+				t.Skip("Windows symlink creation is unavailable to this test account")
+			}
+			t.Fatal(err)
+		}
+		if digest, _, err := hashRetainedFile(link, 1<<20); err == nil || digest != "" {
+			t.Fatal("symbolic link yielded a digest", err)
+		}
+	})
 }
 
 func TestRetainedRotationFencesUnexpectedPredecessorLength(t *testing.T) {
@@ -73,7 +84,7 @@ func TestRetainedRotationFencesUnexpectedPredecessorLength(t *testing.T) {
 				t.Fatal(err)
 			}
 			if change == "truncate" {
-				err = s.file.Truncate(s.size - 1)
+				err = os.Truncate(s.file.Name(), s.size-1)
 			} else {
 				_, err = s.file.Write([]byte("\n"))
 			}

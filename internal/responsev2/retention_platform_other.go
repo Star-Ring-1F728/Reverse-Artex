@@ -1,4 +1,4 @@
-//go:build !linux
+//go:build !linux && !windows
 
 package responsev2
 
@@ -7,7 +7,8 @@ import (
 	"os"
 )
 
-func retentionSupported() bool { return false }
+func retentionSupported() bool           { return false }
+func validateRetentionPath(string) error { return ErrUnavailable }
 func syncRetentionDirectory(string) error {
 	return errors.New("retained V2 journals require Linux directory fsync; native platform qualification pending")
 }

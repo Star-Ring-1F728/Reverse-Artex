@@ -17,7 +17,7 @@ November 18, 2026 · Owned synthetic environments
 | **SDK authorization + edge verification** | Fixture data was exposed in **486 scenario rows** on the vulnerable baseline and **0** on protected paths. All **192/192** fixed normal controls returned the expected response. |
 | **AI containment and release** | **4 of 6 runs completed**. On completed runs, each containment or release stage took **9.1–12.4 s**, including assessment. AI prevented **0** additional leaks in the matched sample. |
 | **Linux beta candidate load** | At **100 requests/s** for about **3 minutes**, **18,000** protected HTTPS reads succeeded with **p99 223.9 ms**. |
-| **Windows beta ZIP load** | Each profile returned **1,400/1,400** exact responses. At the **100 requests/s** peak, p99 fell from **724.4 to 259.8 ms** with optional 15/25 ms batching. The **250 ms** gate remained unmet. |
+| **Windows retained V2 candidate load** | Three local NVMe trials at **100 requests/s for 3 minutes** each returned **55,200/55,200** exact responses across all phases, with **zero 503s or timeouts** and p99 below **250 ms** in every phase. |
 
 The simulation used explicit SDK, session, and ACL integration. The load tests used separate Linux and Windows workloads. [Simulation scope and beta load conditions](docs/VALIDATION.md#november-18-artex-simulation)
 
@@ -69,7 +69,7 @@ To check a stopped default collector store, run `.\reverse-artex.exe -recover-ch
 
 - **Evidence and detection:** authenticated HTTP collection, rule-based alerts, incident history, reviewed labels, and explicitly started shadow learning. [Capabilities (Korean)](docs/CAPABILITIES.md)
 - **File analysis:** isolated JSONL analysis up to 1 MiB, 1,024 events, and 16 KiB per record. [File-analysis guide](docs/QUICKSTART.md#3-try-sample-and-file-analysis)
-- **Optional integrations:** Python 3.10+ for the SDK, Ollama for local investigation, and PostgreSQL for the case API. The Docker Compose profile runs the collector API. Retained V2 journals and network-namespace isolation are Linux features. macOS has a source-build script and remains outside beta runtime qualification. [Compatibility](docs/COMPATIBILITY.md)
+- **Optional integrations:** Python 3.10+ for the SDK, Ollama for local investigation, and PostgreSQL for the case API. The Docker Compose profile runs the collector API. Retained V2 journals support Linux and fixed local Windows NTFS volumes. Network-namespace isolation requires Linux. macOS has a source-build script and remains outside beta runtime qualification. [Compatibility](docs/COMPATIBILITY.md)
 
 ## Validation details
 

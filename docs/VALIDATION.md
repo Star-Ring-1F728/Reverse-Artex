@@ -16,6 +16,12 @@ The **Windows evaluation ZIP**, built with Go 1.27.4, completed a separate synth
 
 These short load trials used different workloads and configurations. Production acceptance remains open for sustained load, operational retention, and failover between hosts.
 
+### Windows retained V2 follow-up
+
+On November 18, Windows development ZIPs processed an owned synthetic signed HTTP workload with V2 retention on fixed local NTFS NVMe storage. Each of three trials used 20 workers, HTTP persistent connections, 8 ms evidence batching, and 15 ms V2 batching. Each trial ran at 20 requests/s for 10 seconds, 100 requests/s for 180 seconds, and 20 requests/s for 10 seconds.
+
+All three trials passed the 250 ms per-phase gate. Across the trials, all **55,200 responses** matched the expected body, SDK signature, and V2 completion. There were **zero HTTP 503s, timeouts, or unresolved write records**. The last development ZIP returned **18,400/18,400** exact responses with p99 of **65.6 ms** at baseline, **54.8 ms** at peak, and **55.7 ms** during recovery. Its journal reached generation 8. SATA pilot trials missed the latency gate during long disk syncs. These measurements apply to the development ZIPs and the storage and connection profile above. [Retained V2 setup](V2-RETAINED-JOURNAL.md)
+
 ## Packaged authorization evaluation — 2026-11-15
 
 The clock-integrity-fixed Windows validation archive and its bundled Python SDK passed an independently recomputed evaluation of 2,016 planned HTTP requests across three fresh synthetic fixtures. Protected legitimate responses matched exactly in **954/954** cases; **69/69** prescribed attacks returned no fixture canary data, with zero normal false positives or unauthorized exposures. All 24 deliberate fault cases matched their fail-closed oracle. Baseline attack controls exposed data in 60 bodies; nine HEAD controls returned 200 with empty bodies.

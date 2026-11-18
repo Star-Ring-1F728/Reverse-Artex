@@ -332,7 +332,7 @@ func (s *Store) rememberCheckpoint(c retainedCheckpoint) {
 	s.installRetainedState(c.State)
 }
 
-// OpenRetained explicitly opts into a Linux durable, segmented journal. The
+// OpenRetained explicitly opts into a durable, segmented journal. The
 // original legacy prefix is preserved and the original path becomes a marker,
 // so an unaware old binary cannot reopen an earlier generation as current.
 func OpenRetained(path string, registry *protection.Registry, config RetentionConfig) (*Store, error) {
@@ -346,7 +346,10 @@ func openRetained(path string, registry *protection.Registry, config RetentionCo
 // The live wrapper samples time.Now at the original post-replay fence below.
 func openRetainedUsingClock(path string, registry *protection.Registry, config RetentionConfig, hook func(string) error, clock func() time.Time) (*Store, error) {
 	if !retentionSupported() {
-		return nil, errors.New("retained V2 journal requires Linux durability qualification")
+		return nil, errors.New("retained V2 journal requires Linux or local Windows NTFS")
+	}
+	if err := validateRetentionPath(path); err != nil {
+		return nil, err
 	}
 	if registry == nil {
 		return nil, ErrUnavailable

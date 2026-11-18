@@ -8,7 +8,8 @@ import (
 	"syscall"
 )
 
-func retentionSupported() bool { return true }
+func retentionSupported() bool           { return true }
+func validateRetentionPath(string) error { return nil }
 func syncRetentionDirectory(path string) error {
 	f, err := os.Open(path)
 	if err != nil {
