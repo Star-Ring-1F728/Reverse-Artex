@@ -18,6 +18,8 @@ This version identifies the first public-facing beta packaging baseline. It is n
 
 ### Simulation-driven improvements
 
+- The source-only defensive qualification transport resumes from committed records after worker resets or missing acknowledgments. The host checks completion markers before consuming a decision. [Defense transport validation](docs/VALIDATION.md#november-19-defense-transport-follow-up)
+
 - Added disabled-by-default, analyze-only grounded assessment: actual signed observation ages, supported classes and canonical citations are checked again before durable commitment. Raw Gemma quality failures remain recorded separately from guided qualification.
 - Added bounded policy-edge shutdown so admitted requests can drain before writers close; failed or timed-out cleanup returns an error instead of a graceful-success claim.
 - Corrected downstream close propagation to preserve upstream HTTP/1.1 reuse, with a real signed-response connection-reuse regression and fixed, privacy-safe transport failure counters. Earlier Windows availability/latency failures remain preserved; see [current qualification](docs/VALIDATION.md#windows-operating-challenge--2026-11-15).

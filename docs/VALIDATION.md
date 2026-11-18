@@ -6,7 +6,25 @@ This public summary separates dated feature trials, latency qualification, and v
 
 The controlled simulation used an owned loopback app, synthetic accounts and data, the application SDK, and edge verification of signed responses. The completed comparison covered 3,036 supported scenario rows, including 2,988 fixed rows and 48 matched variants from completed AI runs. The vulnerable baseline exposed fixture data in **486 rows**. The protected paths exposed **zero**, and all **192 fixed normal controls** returned exact responses.
 
-**Four of six AI runs completed**, including four of the five planned runs. The additional transport follow-up also ended early. The two incomplete runs involved response delivery or session state. In completed runs, containment plus assessment took **9.1–12.4 seconds**, and release plus assessment took **10.5–12.3 seconds**. Both stages had a 30-second deadline. The SDK and edge remained active throughout the matched comparison, and the AI policy prevented **zero additional fixture-data exposures** in that sample.
+### Original Luna integrated trial
+
+**Four of six `gpt-6-luna` runs completed**, including four of the five planned runs. The additional transport follow-up also ended early. The two incomplete runs involved response delivery or session state. In completed runs, containment plus assessment took **9.1–12.4 seconds**, and release plus assessment took **10.5–12.3 seconds**. Both stages had a 30-second deadline. The SDK and edge remained active throughout the matched comparison, and the AI policy prevented **zero additional fixture-data exposures** in that sample.
+
+## November 19 defense transport follow-up
+
+The source-only defensive qualification transport stores each synced response with a completion marker, resumes from the first uncommitted call, and uses polls of at most eight seconds. Its host reader requires the original record and a consistent completion marker. The native host still validates the response schema, its input digest and worker identity, and the original 30-second stage deadline.
+
+### Luna defense-only trial
+
+**Six of six** planned runs completed with `gpt-6-luna` at low reasoning effort. One worker served six fresh Windows fixtures, and every queue command started a fresh Node process. The test wrapper discarded one commit acknowledgment per run. The worker resumed from disk and finished without resubmitting a decision.
+
+Containment plus assessment took **15.9–18.8 seconds**, and release plus assessment took **17.5–22.3 seconds**. All six runs verified targeted containment and explicit release before policy expiration. The offline check matched **24 original model responses** and **180 SDK signatures** and confirmed that **120/120** normal control responses were preserved. One setup attempt ended before the first response was committed because the shell could not parse the submission. The six-run plan was frozen after the wrapper input was corrected. [Original Luna integrated trial](#original-luna-integrated-trial)
+
+### Qwen3 defense-only trial
+
+**Six of six** fresh Windows fixtures completed with the local `qwen3:4b-instruct-2507-q4_K_M` model. Containment plus assessment took **2.93–3.57 seconds**, and release plus assessment took **4.37–5.64 seconds**. A fresh Node process reconstructed the queue for every command. Each run intentionally discarded one commit acknowledgment, then resumed without resending a decision. In total, **24 original model responses** and **180 SDK signatures** matched the native records. All six runs verified targeted containment and explicit release before the policy expired, with **120/120** normal control responses preserved.
+
+The follow-up used owned loopback fixtures and verified defense transport and completion under those conditions. The [original Luna integrated trial](#original-luna-integrated-trial) retains its own scope and result.
 
 ## November 18 beta runtime and load
 

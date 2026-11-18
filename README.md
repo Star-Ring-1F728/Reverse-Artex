@@ -10,16 +10,16 @@ English · [한국어](README.ko.md)
 
 ## ARTEX simulation and beta performance
 
-November 18, 2026 · Owned synthetic environments
+November 18–19, 2026 · Owned synthetic environments
 
 | Check | Result |
 | --- | --- |
 | **SDK authorization + edge verification** | Fixture data was exposed in **486 scenario rows** on the vulnerable baseline and **0** on protected paths. All **192/192** fixed normal controls returned the expected response. |
-| **AI containment and release** | **4 of 6 runs completed**. On completed runs, each containment or release stage took **9.1–12.4 s**, including assessment. AI prevented **0** additional leaks in the matched sample. |
+| **Luna defense transport follow-up** | **6 of 6** defense-only runs completed with `gpt-6-luna`. Containment plus assessment took **15.9–18.8 s** and release plus assessment took **17.5–22.3 s**. |
 | **Linux beta candidate load** | At **100 requests/s** for about **3 minutes**, **18,000** protected HTTPS reads succeeded with **p99 223.9 ms**. |
 | **Windows retained V2 candidate load** | Three local NVMe trials at **100 requests/s for 3 minutes** each returned **55,200/55,200** exact responses across all phases, with **zero 503s or timeouts** and p99 below **250 ms** in every phase. |
 
-The simulation used explicit SDK, session, and ACL integration. The load tests used separate Linux and Windows workloads. [Simulation scope and beta load conditions](docs/VALIDATION.md#november-18-artex-simulation)
+The simulation used explicit SDK, session, and ACL integration. Linux and Windows load results reflect their respective workloads. [Simulation scope and beta load conditions](docs/VALIDATION.md#november-18-artex-simulation) · [Luna and Qwen3 transport runs](docs/VALIDATION.md#november-19-defense-transport-follow-up)
 
 ## Quick start
 
